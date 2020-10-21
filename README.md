@@ -5,10 +5,10 @@ This repository contains information and examples on how to insert badges/shield
 
 ## Dictionary
 + **source** | **src** | **source link** - the link to the badge image (*must have*)
-+ **reference** | **href** - the link to the place where user should be redirected to after clicking on the badge (*optional*)
++ **reference** | **href** | **target** - the link to the place where user should be redirected to after clicking on the badge (*optional*)
 + **alternative** | **alt** - text that should be shown if it was impossible to get the image using **source link** (*optional*)
 
-## How to insert a badge into:
+## Insert a badge into:
 + **Markdown**
 
 ---
