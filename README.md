@@ -9,7 +9,13 @@ This repository contains information and examples on how to insert badges/shield
 + **alternative** | **alt** - text that should be shown if it was impossible to get the image using **source link** (*optional*)
 
 ## Insert a badge into:
-+ **Markdown**
++ [**Markdown**](https://github.com/a-maliarov/how-to-badge/tree/main#markdown)
++ [**HTML**](https://github.com/a-maliarov/how-to-badge/tree/main#html)
++ [**RST**](https://github.com/a-maliarov/how-to-badge/tree/main#rst--restructuredtext)
++ [**Textile**](https://github.com/a-maliarov/how-to-badge/tree/main#textile)
++ [**Rdoc**](https://github.com/a-maliarov/how-to-badge/tree/main#rdoc)
++ [**AsciiDoc**](https://github.com/a-maliarov/how-to-badge/tree/main#asciidoc)
++ [**Pod**](https://github.com/a-maliarov/how-to-badge/tree/main#pod)
 
 ---
 
