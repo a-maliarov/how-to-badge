@@ -21,3 +21,33 @@ This repository contains information and examples on how to insert badges/shield
 # Example
 [![Build Status](https://travis-ci.com/a-maliarov/pyaction.svg?branch=main)](https://travis-ci.com/a-maliarov/pyaction)
 ```
+
+## HTML
+```html
+# Pattern
+<a href="https://reference.link">
+  <img
+   src="https://source.link"
+   alt="Alternative"
+  >
+</a>
+
+# Example
+<a href="https://travis-ci.com/a-maliarov/pyaction">
+  <img
+   src="https://travis-ci.com/a-maliarov/pyaction.svg?branch=main"
+   alt="Build Status"
+  >
+</a>
+```
+
+## RST / reStructuredText
+```
+# Pattern
+.. image:: https://source.link
+  :target: https://reference.link
+
+# Example
+.. image:: https://travis-ci.com/a-maliarov/pyaction.svg?branch=main
+  :target: https://travis-ci.com/a-maliarov/pyaction
+```
